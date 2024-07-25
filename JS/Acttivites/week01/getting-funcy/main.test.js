@@ -1,9 +1,33 @@
 /**********************************
  * YOUR CODE GOES HERE THIS TIME! *
  **********************************/
+let x = 3;
 
+let y = 10;
 
+let z = 4;
 
+let greeting = "Hello";
+
+let firstName = "Kevin";
+
+let callStaus = "ringing";
+
+function double(x) {
+  return x * 2;
+}
+
+function triple(y) {
+  return y * 3;
+}
+
+function square(z) {
+  return z * z;
+}
+
+function beNice() {
+  return
+}
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
