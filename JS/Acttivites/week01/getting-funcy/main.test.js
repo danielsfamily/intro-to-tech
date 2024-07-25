@@ -7,22 +7,22 @@ let y = 10;
 
 let z = 4;
 
-let greeting = "Hello";
+let greeting = 'hello';
 
-let firstName = "Kevin";
+let firstName = 'Kevin';
 
-let callStaus = "ringing";
+let callStaus = 'ringing';
 
-function double(x) {
-  return x * 2;
+function double() {
+  return x = x * 2;
 }
 
-function triple(y) {
-  return y * 3;
+function triple() {
+  return y = y * 3;
 }
 
-function square(z) {
-  return z * z;
+function square() {
+  return  z = z * z;
 }
 
 function beNice() {
