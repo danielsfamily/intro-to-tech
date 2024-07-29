@@ -1,0 +1,8 @@
+//String
+let myCity = "Mt Juliet"
+//Boolean
+let petOwner = true;
+//Undefined
+let myZipCode;
+//Null
+let isCold = null;

@@ -1,20 +1,35 @@
-//variables are containers that store values to be recalled later and we use three specific words to declare let,const,var
-// you can not use numbers at the beginning of the variable
-//JavaScript variable name does not allow specific signs except $ and _. Variables use camel case. VBariable name should not have a space between the words
-//string
+//Variables are containers that store values to be recalled later and we use three specific words to declare let,const,and var.
+// You can not use numbers at the beginning of the variable.
+//JavaScript variable name does not allow specific signs except $ and _. Variables use camel case. Variable name should not have a space between the words.
+
+//Data Types 
+//7 different primitive data types
+
+//String
 let firstName = "Kevin";
 let lastName = "Daniels";
+console.log(typeof firstName);
+
 //Boolean
-let married = "true";
-let depressed = "flase";
-//undefined 
+let married = true;
+let depressed = false;
+console.log(typeof married);
+
+//Undefined 
 let Kevin;
 let first_name;
-//null
+console.log(typeof Kevin);
+
+//Null
 let year2024 = null;
 let isRaining = null;
+console.log(typeof year2024);
 
-//let firstName
+//Number
+let age = 50; // "=" is a assignment creator
+console.log(typeof age);
+
+//let firstName;
 //let age;
 //let first_name;
 //let year2024;
