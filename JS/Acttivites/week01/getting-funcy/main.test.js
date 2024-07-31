@@ -11,7 +11,7 @@ let greeting = 'hello';
 
 let firstName = 'Kevin';
 
-let callStaus = 'ringing';
+let callStatus = 'ringing';
 
 function double() {
   return x = x * 2;
@@ -26,7 +26,15 @@ function square() {
 }
 
 function beNice() {
-  return
+   greeting = 'hello Kevin!';  
+}
+
+function changeName() {
+  firstName = 'Danger';
+}
+
+function hangUp() {
+  callStatus = 'call ended';
 }
 /*********************************************************************************************************************
 
